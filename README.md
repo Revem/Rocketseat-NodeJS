@@ -1,2 +1,2 @@
 # Rocketseat-NodeJS
-## Tentativa de finalmente aprender e entender sobre APIs
+## Curso da RocketSeat para facilitar o entendimento sobre o funcionamento das APIs
